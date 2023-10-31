@@ -1,0 +1,2 @@
+-- Selecionar os nomes e salários dos funcionários e ordená-los em ordem decrescente de salário
+SELECT nome, salario FROM funcionarios ORDER BY salario DESC; --  Está ordenando os resultados com base no campo "salário" em ordem decrescente (do maior para o menor).
